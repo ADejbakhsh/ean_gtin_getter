@@ -9,4 +9,9 @@ export class AppController {
   getHello(): string {
     return this.appService.getHello();
   }
+
+  @Get('/ici')
+  testFetch(): Promise<string> {
+    return this.appService.testFetch();
+  }
 }
