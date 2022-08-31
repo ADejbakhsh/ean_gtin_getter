@@ -1,0 +1,480 @@
+[
+  {
+    "County code": "00-13",
+    "Country": "USA and Canada",
+    "ISO3166-1.alpha2": "US"
+  },
+  {
+    "County code": "20-29",
+    "Country": "Internal use"
+  },
+  {
+    "County code": "30-37",
+    "Country": "France",
+    "ISO3166-1.alpha2": "FR"
+  },
+  {
+    "County code": 380,
+    "Country": "Bulgaria",
+    "ISO3166-1.alpha2": "BG"
+  },
+  {
+    "County code": 383,
+    "Country": "Slovenia",
+    "ISO3166-1.alpha2": "SI"
+  },
+  {
+    "County code": 385,
+    "Country": "Croatia",
+    "ISO3166-1.alpha2": "HR"
+  },
+  {
+    "County code": 387,
+    "Country": "Bosnia And Herzegovina",
+    "ISO3166-1.alpha2":"BA"
+  },
+  {
+    "County code": "400-440",
+    "Country": "Germany",
+    "ISO3166-1.alpha2": "DE"
+  },
+  {
+    "County code": "45,49",
+    "Country": "Japan",
+    "ISO3166-1.alpha2": "JP"
+  },
+  {
+    "County code": "460-469",
+    "Country": "Russian Federation",
+    "ISO3166-1.alpha2":"RU"
+  },
+  {
+    "County code": 471,
+    "Country": "Taiwan",
+    "ISO3166-1.alpha2": "TW"
+  },
+  {
+    "County code": 474,
+    "Country": "Estonia",
+    "ISO3166-1.alpha2": "EE"
+  },
+  {
+    "County code": 475,
+    "Country": "Latvia",
+    "ISO3166-1.alpha2": "LV"
+  },
+  {
+    "County code": 476,
+    "Country": "Azerbaijan",
+    "ISO3166-1.alpha2":"AZ"
+  },
+  {
+    "County code": 477,
+    "Country": "Lithuania",
+    "ISO3166-1.alpha2": "LT"
+  },
+  {
+    "County code": 478,
+    "Country": "Uzbekistan",
+    "ISO3166-1.alpha2": "UZ"
+  },
+  {
+    "County code": 479,
+    "Country": "Sri Lanka",
+    "ISO3166-1.alpha2": "LK"
+  },
+  {
+    "County code": 480,
+    "Country": "Philippines",
+    "ISO3166-1.alpha2": "PH"
+  },
+  {
+    "County code": 481,
+    "Country": "Belarus",
+    "ISO3166-1.alpha2":"BY"
+  },
+  {
+    "County code": 482,
+    "Country": "Ukraine",
+    "ISO3166-1.alpha2": "UA"
+  },
+  {
+    "County code": 484,
+    "Country": "Moldova",
+    "ISO3166-1.alpha2":"MD"
+  },
+  {
+    "County code": 485,
+    "Country": "Armenia",
+    "ISO3166-1.alpha2":"AM"
+  },
+  {
+    "County code": 486,
+    "Country": "Georgia",
+    "ISO3166-1.alpha2":"GE"
+  },
+  {
+    "County code": 487,
+    "Country": "Kazakhstan",
+    "ISO3166-1.alpha2":"KZ"
+  },
+  {
+    "County code": 489,
+    "Country": "Hong Kong",
+    "ISO3166-1.alpha2": "HK"
+  },
+  {
+    "County code": 50,
+    "Country": "United Kingdom",
+    "ISO3166-1.alpha2": "GB"
+  },
+  {
+    "County code": 520,
+    "Country": "Greece",
+    "ISO3166-1.alpha2": "GR"
+  },
+  {
+    "County code": 528,
+    "Country": "Lebanon",
+    "ISO3166-1.alpha2": "LB"
+  },
+  {
+    "County code": 529,
+    "Country": "Cyprus",
+    "ISO3166-1.alpha2": "CY"
+  },
+  {
+    "County code": 531,
+    "Country": "Macedonia",
+    "ISO3166-1.alpha2":"MK"
+  },
+  {
+    "County code": 535,
+    "Country": "Malta",
+    "ISO3166-1.alpha2": "MT"
+  },
+  {
+    "County code": 539,
+    "Country": "Ireland",
+    "ISO3166-1.alpha2": "IE"
+  },
+  {
+    "County code": 54,
+    "Country": "Belgium and Luxembourg",
+    "ISO3166-1.alpha2":"BE"
+  },
+  {
+    "County code": 560,
+    "Country": "Portugal",
+    "ISO3166-1.alpha2": "PT"
+  },
+  {
+    "County code": 569,
+    "Country": "Iceland",
+    "ISO3166-1.alpha2": "IS"
+  },
+  {
+    "County code": 57,
+    "Country": "Denmark",
+    "ISO3166-1.alpha2": "DK"
+  },
+  {
+    "County code": 590,
+    "Country": "Poland",
+    "ISO3166-1.alpha2": "PL"
+  },
+  {
+    "County code": 594,
+    "Country": "Romania",
+    "ISO3166-1.alpha2":"RO"
+  },
+  {
+    "County code": 599,
+    "Country": "Hungary",
+    "ISO3166-1.alpha2": "HU"
+  },
+  {
+    "County code": "600, 601",
+    "Country": "South Africa",
+    "ISO3166-1.alpha2": "ZA"
+  },
+  {
+    "County code": 608,
+    "Country": "Bahrain",
+    "ISO3166-1.alpha2":"BH"
+  },
+  {
+    "County code": 609,
+    "Country": "Mauritius",
+    "ISO3166-1.alpha2": "MU"
+  },
+  {
+    "County code": 611,
+    "Country": "Morocco",
+    "ISO3166-1.alpha2": "MA"
+  },
+  {
+    "County code": 613,
+    "Country": "Algeria",
+    "ISO3166-1.alpha2": "DZ"
+  },
+  {
+    "County code": 616,
+    "Country": "Kenya",
+    "ISO3166-1.alpha2": "KE"
+  },
+  {
+    "County code": 619,
+    "Country": "Tunisia",
+    "ISO3166-1.alpha2": "TN"
+  },
+  {
+    "County code": 621,
+    "Country": "Syrian Arab Republic",
+    "ISO3166-1.alpha2": "SY"
+  },
+  {
+    "County code": 622,
+    "Country": "Egypt",
+    "ISO3166-1.alpha2": "EG"
+  },
+  {
+    "County code": 624,
+    "Country": "Libyan Arab Jamahiriya",
+    "ISO3166-1.alpha2": "LY"
+
+  },
+  {
+    "County code": 625,
+    "Country": "Jordan",
+    "ISO3166-1.alpha2": "JO"
+  },
+  {
+    "County code": 626,
+    "Country": "Iran",
+    "ISO3166-1.alpha2": "IR"
+  },
+  {
+    "County code": 627,
+    "Country": "Kuwait",
+    "ISO3166-1.alpha2": "KW"
+  },
+  {
+    "County code": 628,
+    "Country": "Saudi Arabia",
+    "ISO3166-1.alpha2": "SA"
+  },
+  {
+    "County code": 629,
+    "Country": "United Arab Emirates",
+    "ISO3166-1.alpha2": "AE"
+  },
+  {
+    "County code": 64,
+    "Country": "Finland",
+    "ISO3166-1.alpha2": "FI"
+  },
+  {
+    "County code": "690-695",
+    "Country": "China",
+    "ISO3166-1.alpha2": "CN"
+  },
+  {
+    "County code": 70,
+    "Country": "Norway",
+    "ISO3166-1.alpha2": "NO"
+  },
+  {
+    "County code": 729,
+    "Country": "Israel",
+    "ISO3166-1.alpha2": "IL"
+  },
+  {
+    "County code": 73,
+    "Country": "Sweden",
+    "ISO3166-1.alpha2": "SE"
+  },
+  {
+    "County code": "740-745",
+    "Country": "Central America (Guatemala, el Salvador, Honduras, Nicaragua, Costa Rica, Panama)",
+    "ISO3166-1.alpha2": "HN"
+  },
+  {
+    "County code": 746,
+    "Country": "Dominican Republic",
+    "ISO3166-1.alpha2": "DO"
+  },
+  {
+    "County code": 750,
+    "Country": "Mexico",
+    "ISO3166-1.alpha2": "MX"
+  },
+  {
+    "County code": 759,
+    "Country": "Venezuela",
+    "ISO3166-1.alpha2": "VE"
+
+  },
+  {
+    "County code": 76,
+    "Country": "Switzerland and Liechtenstein",
+    "ISO3166-1.alpha2": "CH"
+
+  },
+  {
+    "County code": 770,
+    "Country": "Colombia",
+    "ISO3166-1.alpha2": "CO"
+  },
+  {
+    "County code": 773,
+    "Country": "Uruguay",
+    "ISO3166-1.alpha2": "UY"
+  },
+  {
+    "County code": 775,
+    "Country": "Peru",
+    "ISO3166-1.alpha2": "PE"
+  },
+  {
+    "County code": 777,
+    "Country": "Bolivia",
+    "ISO3166-1.alpha2": "BO"
+  },
+  {
+    "County code": 779,
+    "Country": "Argentina",
+    "ISO3166-1.alpha2": "AR"
+  },
+  {
+    "County code": 780,
+    "Country": "Chile",
+    "ISO3166-1.alpha2": "CL"
+  },
+  {
+    "County code": 784,
+    "Country": "Paraguay",
+    "ISO3166-1.alpha2": "PY"
+  },
+  {
+    "County code": 786,
+    "Country": "Ecuador",
+    "ISO3166-1.alpha2": "EC"
+  },
+  {
+    "County code": "789-790",
+    "Country": "Brazil",
+    "ISO3166-1.alpha2": "BR"
+  },
+  {
+    "County code": "80-83",
+    "Country": "Italy",
+    "ISO3166-1.alpha2": "IT"
+  },
+  {
+    "County code": 84,
+    "Country": "Spain",
+    "ISO3166-1.alpha2": "ES"
+  },
+  {
+    "County code": 850,
+    "Country": "Cuba",
+    "ISO3166-1.alpha2": "CU"
+  },
+  {
+    "County code": 858,
+    "Country": "Slovakia",
+    "ISO3166-1.alpha2": "SK"
+  },
+  {
+    "County code": 859,
+    "Country": "Czech Republic",
+    "ISO3166-1.alpha2": "CZ"
+  },
+  {
+    "County code": 860,
+    "Country": "Yugoslavia",
+    "ISO3166-1.alpha2": "YU"
+  },
+  {
+    "County code": 867,
+    "Country": "North-Korea",
+    "ISO3166-1.alpha2": "KP"
+  },
+  {
+    "County code": 869,
+    "Country": "Turkey",
+    "ISO3166-1.alpha2": "TR"
+  },
+  {
+    "County code": 87,
+    "Country": "Netherlands",
+    "ISO3166-1.alpha2": "NL"
+  },
+  {
+    "County code": 880,
+    "Country": "South Korea",
+    "ISO3166-1.alpha2": "KR"
+  },
+  {
+    "County code": 885,
+    "Country": "Thailand",
+    "ISO3166-1.alpha2": "TH"
+  },
+  {
+    "County code": 888,
+    "Country": "Singapore",
+    "ISO3166-1.alpha2": "SG"
+  },
+  {
+    "County code": 890,
+    "Country": "India",
+    "ISO3166-1.alpha2": "IN"
+  },
+  {
+    "County code": 893,
+    "Country": "Vietnam",
+    "ISO3166-1.alpha2": "VN"
+  },
+  {
+    "County code": 899,
+    "Country": "Indonesia",
+    "ISO3166-1.alpha2": "ID"
+  },
+  {
+    "County code": "90, 91",
+    "Country": "Austria",
+    "ISO3166-1.alpha2": "AT"
+  },
+  {
+    "County code": 93,
+    "Country": "Australia",
+    "ISO3166-1.alpha2": "AU"
+  },
+  {
+    "County code": 94,
+    "Country": "New Zealand",
+    "ISO3166-1.alpha2": "NZ"
+  },
+  {
+    "County code": 955,
+    "Country": "Malaysia",
+    "ISO3166-1.alpha2": "MY"
+  },
+  {
+    "County code": 958,
+    "Country": "Makao"
+  },
+  {
+    "County code": 977,
+    "Country": "Magazines (ISSN)"
+  },
+  {
+    "County code": "978-979",
+    "Country": "Books (ISBN)"
+  },
+  {
+    "County code": "980-99",
+    "Country": "Voucher codes"
+  }
+]

@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import axios from 'axios';
+import countryCodeBar from './codebar.json';
 
 @Injectable()
 export class AppService {
@@ -7,7 +8,8 @@ export class AppService {
     return 'Hello World!';
   }
 
-  async testFetch(): Promise<string> {
+  async searchEngine(ean: number): Promise<string> {
+    // get country
     const option = {
       rejectUnauthorized: false,
       auth: {
@@ -18,8 +20,15 @@ export class AppService {
       port: Number(process.env.PROXY_PORT),
     };
 
-    const response = await axios.get('http://lumtest.com/myip.json', option);
+    // seek google
+    const response = await axios.get(process.env.SEARCH_ENGINE, option);
+
+    //
     console.log(response);
     return response.data;
+  }
+
+  countryOfcodeBar(codebar: number) {
+    
   }
 }
